@@ -3,13 +3,12 @@ package main
 import (
 	"flag"
 	"fmt"
+	"github.com/doit05/gokittest/profilesvc"
+	"github.com/go-kit/kit/log"
 	"net/http"
 	"os"
 	"os/signal"
 	"syscall"
-
-	"github.com/go-kit/kit/log"
-	"my/profilesvc"
 )
 
 func main() {

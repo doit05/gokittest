@@ -1,0 +1,2 @@
+ts=2020-05-13T08:55:28.845393Z caller=main.go:54 transport=HTTP addr=:8080
+ts=2020-05-13T08:59:30.820462Z caller=main.go:58 exit=interrupt
